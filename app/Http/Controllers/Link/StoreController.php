@@ -4,7 +4,7 @@ namespace App\Http\Controllers\Link;
 
 
 use App\Http\Controllers\Controller;
-use App\Http\Requests\Post\StoreRequest;
+use App\Http\Requests\Link\StoreRequest;
 use App\Models\Link;
 
 

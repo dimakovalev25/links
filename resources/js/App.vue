@@ -15,7 +15,7 @@
                                     <a href="#" class="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">Remove the size</a>-->
                                     <router-link  class="bg-gray-900 text-white rounded-md px-3 py-2 text-sm font-medium" :to="{name: 'home'}">home  </router-link>
                                     <router-link  class="bg-gray-900 text-white rounded-md px-3 py-2 text-sm font-medium" :to="{name: 'links'}">your links </router-link>
-                                    <router-link  class="bg-gray-900 text-white rounded-md px-3 py-2 text-sm font-medium" :to="{name: 'links'}">remove the size </router-link>
+                   
 
                                 </div>
                             </div>
@@ -67,7 +67,7 @@
                         <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
                         <router-link  class="bg-gray-900 text-white rounded-md px-3 py-2 text-sm font-medium" :to="{name: 'home'}">home  |</router-link>
                         <router-link  class="bg-gray-900 text-white rounded-md px-3 py-2 text-sm font-medium" :to="{name: 'links'}">your links |</router-link>
-                        <router-link  class="bg-gray-900 text-white rounded-md px-3 py-2 text-sm font-medium" :to="{name: 'links'}">remove the size |</router-link>
+    
                     </div>
                     <div class="border-t border-gray-700 pb-3 pt-4">
                         <div class="flex items-center px-5">

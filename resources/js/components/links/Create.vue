@@ -7,7 +7,7 @@
             <textarea class="form-control" v-model="content" type="text" placeholder="content"/>
         </div>
         <div class="w-50">
-            <button :disabled="!isDisabled" @click.prevent="addPost" type="submit" class="btn btn-success">add</button>
+            <button @click.prevent="addLink" type="submit" class="btn btn-success">add</button>
         </div>
     </div>
 </template>

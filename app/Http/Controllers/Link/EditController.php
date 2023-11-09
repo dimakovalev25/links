@@ -4,7 +4,7 @@ namespace App\Http\Controllers\Link;
 
 
 use App\Http\Controllers\Controller;
-use App\Http\Requests\Post\UpdateRequest;
+use App\Http\Requests\Link\UpdateRequest;
 use App\Models\Link;
 
 
